@@ -121,7 +121,7 @@ function UseStatePractice(props) {
           return (
             <tr>
               <td>
-                {"Sr : "}
+                {"Sr# : "}
                 {Sr}
               </td>
               <td>{student.name}</td>
